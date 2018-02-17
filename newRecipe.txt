@@ -1,0 +1,3 @@
+new recipe
+
+This is a new recipe for the repository!
